@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #fc1e8a;
+  background: #91ff00;
   user-select: none;
 }
 
@@ -16,8 +16,8 @@ body {
   gap: 30px;
   background: linear-gradient(
     325deg,
-    #03001e 0%,
-    #7303c0 30%,
+    #ff0404 0%,
+    #fbff00 30%,
     #ec38bc 70%,
     #fdeff9 100%
   );
